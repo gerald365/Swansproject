@@ -20,7 +20,7 @@ p {
 <body>
 
 <h1>My Transportation Safety APP </h1>
-<p>This is a test paragraph.</p>
+<p>This is a test app in Azure environment.</p>
 
 </body>
 </html>
